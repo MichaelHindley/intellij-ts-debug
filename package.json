@@ -1,0 +1,14 @@
+{
+  "name": "intellij-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloud-carbon-footprint/core": "0.11.0"
+  }
+}
